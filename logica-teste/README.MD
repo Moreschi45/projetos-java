@@ -40,8 +40,8 @@ java/
         │       ├── LogicaDeDadosCliente.java
         │       └── LogicaDeDadosProfissional.java
         └── GreetingResource.java
-
 ```
+
 ---
 
 ## 📌 Endpoint
@@ -50,6 +50,7 @@ Aqui você faz o teste com o perfil cliente
 
 #### 📥 Request JSON
 
+```JSON
 {
   "clientes": [
     {
@@ -59,6 +60,7 @@ Aqui você faz o teste com o perfil cliente
     }
   ]
 }
+```
 
 ---
 
