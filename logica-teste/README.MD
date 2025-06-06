@@ -1,20 +1,22 @@
-# API de Validação de Perfis – Java + Quarkus
+# 🛡️ API de Validação de Perfis – Java + Quarkus
 
-Este projeto é uma API REST desenvolvida com Quarkus e Java 17, focada em validação de dados de perfis (clientes e profissionais) com retorno de logs personalizados.
+Este projeto é uma **API REST** desenvolvida com **Quarkus** e **Java 21**, focada na **validação de dados** de perfis (clientes e profissionais), com **retorno de logs personalizados**.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 21 
-- Quarkus 3.23.2  
-- Jakarta REST (JAX-RS)  
-- Jackson (JSON)  
-- Postman (para testes)  
+- **Java 21**  
+- **Quarkus 3.23.2**  
+- **Jakarta REST (JAX-RS)**  
+- **Jackson (JSON)**  
+- **Postman** (para testes)
 
 ---
 
 ## 📁 Estrutura de Pastas
+
+```bash
 java/
 └── org/
     └── acme/
@@ -39,12 +41,7 @@ java/
         │       └── LogicaDeDadosProfissional.java
         └── GreetingResource.java
 
-
-
-
-
-
-
+```
 ---
 
 ## 📌 Endpoint
